@@ -6,7 +6,7 @@
         <div class="col-5"> 
             <form-contato/>  
         </div>  
-        <div class="col-7">
+        <div class="col-5">
         <table-contato/>  
     </div> 
 </div>

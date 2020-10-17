@@ -12,6 +12,7 @@
             { key: 'nome', label:'Nome' },
             { key: 'telefone', label:'Telefone' },
             { key: 'acoes', label:'Acoes' }
+            { key: 'botoes', label:'Botoes' }
         ],
         contatos:[]        
       }
